@@ -1,5 +1,7 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 14-11-2025
+## NAME: PRIYADARSHINI K
+## REG NO: 212224100046
 
 ## AIM
 To develop a website to display details about the places around my house.
